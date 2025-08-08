@@ -1,0 +1,62 @@
+<svg width="650" height="406" viewBox="0 0 650 406" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background grid elements -->
+  <path d="M603.171 195.67L445.106 347.201V44.1392L603.171 195.67Z" stroke="#C4CCE8" stroke-miterlimit="10"/>
+  <path d="M445.106 195.67L287.041 347.201V44.1392L445.106 195.67Z" stroke="#C4CCE8" stroke-miterlimit="10"/>
+  <path d="M603.171 195.67H180.043" stroke="#C4CCE8" stroke-miterlimit="10"/>
+  
+  <!-- Browser window frame -->
+  <path d="M57.0145 43H593.668C596.51 43 599.237 44.0612 601.247 45.9501C603.257 47.8391 604.387 50.401 604.387 53.0724V348.34H57.0145C54.1716 348.34 51.4452 347.279 49.435 345.39C47.4248 343.501 46.2954 340.939 46.2954 338.268V53.1252C46.288 51.798 46.5598 50.4826 47.0952 49.2544C47.6306 48.0263 48.4189 46.9097 49.415 45.9688C50.4111 45.0279 51.5953 44.2812 52.8994 43.7717C54.2036 43.2623 55.6021 43 57.0145 43V43Z" stroke="#C5CDE9" stroke-miterlimit="10"/>
+  
+  <!-- Browser window controls -->
+  <path d="M65.1415 64.6472C67.4918 64.6472 69.3971 62.8618 69.3971 60.6595C69.3971 58.4572 67.4918 56.6719 65.1415 56.6719C62.7912 56.6719 60.8859 58.4572 60.8859 60.6595C60.8859 62.8618 62.7912 64.6472 65.1415 64.6472Z" stroke="#C5CDE9" stroke-miterlimit="10"/>
+  <path d="M82.7718 65.7865C85.4579 65.7865 87.6354 63.7461 87.6354 61.2292C87.6354 58.7123 85.4579 56.6719 82.7718 56.6719C80.0858 56.6719 77.9083 58.7123 77.9083 61.2292C77.9083 63.7461 80.0858 65.7865 82.7718 65.7865Z" stroke="#C5CDE9" stroke-miterlimit="10"/>
+  <path d="M100.402 65.7866C102.752 65.7866 104.658 64.0013 104.658 61.7989C104.658 59.5966 102.752 57.8113 100.402 57.8113C98.0519 57.8113 96.1466 59.5966 96.1466 61.7989C96.1466 64.0013 98.0519 65.7866 100.402 65.7866Z" stroke="#C5CDE9" stroke-miterlimit="10"/>
+  
+  <!-- Accent squares -->
+  <path d="M52.3747 171.744H39V184.277H52.3747V171.744Z" fill="#6159E5"/>
+  <path d="M611.682 88.573H598.307V102.245H611.682V88.573Z" fill="#6159E5"/>
+  
+  <!-- Cloud elements -->
+  <path d="M384.311 173.864C397.176 197.034 424.878 208.367 449.522 201.798C470.052 196.291 485.552 179.079 488.877 158.072" stroke="#6159E5" stroke-width="18" stroke-miterlimit="10"/>
+  <path d="M569.199 264.276L517.516 232.922L484.055 281.351L535.738 312.705L569.199 264.276Z" fill="#6159E5"/>
+  
+  <!-- CloudXpie Character -->
+  <g transform="translate(76, 55)">
+    <!-- Cloud shape -->
+    <path d="M180,140 C180,100 150,70 110,70 C85,70 65,85 55,105 C45,95 30,90 15,90 C-10,90 -30,110 -30,135 C-30,160 -10,180 15,180 L150,180 C165,180 180,165 180,150 L180,140 Z" fill="#6159E5" opacity="0.8"/>
+    
+    <!-- Server tower -->
+    <rect x="60" y="130" width="60" height="120" rx="5" fill="#564FCC"/>
+    <rect x="70" y="140" width="40" height="10" rx="2" fill="#6C63FF"/>
+    <rect x="70" y="160" width="40" height="10" rx="2" fill="#6C63FF"/>
+    <rect x="70" y="180" width="40" height="10" rx="2" fill="#6C63FF"/>
+    <rect x="70" y="200" width="40" height="10" rx="2" fill="#6C63FF"/>
+    <rect x="70" y="220" width="40" height="10" rx="2" fill="#6C63FF"/>
+    
+    <!-- Person -->
+    <circle cx="160" cy="150" r="30" fill="#564FCC"/>
+    <path d="M160,185 L160,250" stroke="#564FCC" stroke-width="10" stroke-linecap="round"/>
+    <path d="M160,200 L130,230" stroke="#564FCC" stroke-width="8" stroke-linecap="round"/>
+    <path d="M160,200 L190,230" stroke="#564FCC" stroke-width="8" stroke-linecap="round"/>
+    <path d="M160,250 L140,290" stroke="#564FCC" stroke-width="8" stroke-linecap="round"/>
+    <path d="M160,250 L180,290" stroke="#564FCC" stroke-width="8" stroke-linecap="round"/>
+    
+    <!-- Face -->
+    <circle cx="150" cy="145" r="5" fill="white"/>
+    <circle cx="170" cy="145" r="5" fill="white"/>
+    <path d="M150,165 C155,170 165,170 170,165" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Connection lines -->
+    <path d="M90,130 C90,100 120,90 150,120" stroke="#C4CCE8" stroke-width="2" stroke-dasharray="4 2"/>
+    <path d="M90,130 L40,80" stroke="#C4CCE8" stroke-width="2" stroke-dasharray="4 2"/>
+    <path d="M90,130 L140,80" stroke="#C4CCE8" stroke-width="2" stroke-dasharray="4 2"/>
+    
+    <!-- Small cloud icons -->
+    <path d="M40,80 C40,70 30,60 20,60 C10,60 0,70 0,80 C0,90 10,100 20,100 L30,100 C35,100 40,95 40,90 L40,80 Z" fill="#C4CCE8"/>
+    <path d="M140,80 C140,70 130,60 120,60 C110,60 100,70 100,80 C100,90 110,100 120,100 L130,100 C135,100 140,95 140,90 L140,80 Z" fill="#C4CCE8"/>
+    
+    <!-- X symbol -->
+    <path d="M220,100 L240,120 M220,120 L240,100" stroke="#6159E5" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="230" cy="110" r="25" stroke="#6159E5" stroke-width="3" fill="none"/>
+  </g>
+</svg>
